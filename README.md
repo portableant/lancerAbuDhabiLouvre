@@ -21,6 +21,10 @@ Models are included as PLY, OBJ and STL representations.
 
 # Metadata 
 
+A lancer from the archer’s frieze, from Darius’s palace at Susa. This frieze panel is made from glazed siliceous bricks and dates to the Achaemenid Empire circa 510 BC.
+
+Achéménide Reigne - Lancier, détail de la frise des archers du palais de Darius à Suse.
+
 # Paradata
 
 This model was shot using a Sony A6000 in artificial light during a tour of the new Louvre Abu Dhabi in general opening hours. 44 images were shot as jpegs and RAW. This model was created just from unedited jpegs (as I am lazy.) Masking needs tightening.
