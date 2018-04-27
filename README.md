@@ -1,6 +1,7 @@
 
 [![License: CC BY NC 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/) 
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+[![DOI](https://zenodo.org/badge/131288469.svg)](https://zenodo.org/badge/latestdoi/131288469)
 
 # Lancer from frieze of archers, Louvre Abu Dhabi
 
